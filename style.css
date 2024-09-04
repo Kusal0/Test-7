@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: blue;
+}
+.Uberbutton{
+    background-color: black;
+    font-size: 15px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    box-sizing: content-box;
+    color: white;
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+.Amazonbutton{
+    background-color: rgb(255,216,20);
+    font-size: 15px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    border-radius: 30px;
+    border-width: 5px;
+    color: black;
+    height: 40px;
+    width: 210px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+.Githubbutton{
+    background-color: rgb(46,164,79);
+    font-size: 15px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 5px;
+    color: white;
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+.BootstrapGetstartedbutton{
+    background-color: rgb(121, 82, 179);
+    font-size: 15px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.BootstrapDownloadbutton{
+    background-color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: rgb(121, 82, 179);
+    border-style: solid;
+    color: rgb(108, 117, 125);
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+.LinkedIncompanybutton{
+    background-color: rgb(10, 102, 194);
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    height: 45px;
+    width: 250px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.LinkedInsavebutton{
+    background-color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    height: 45px;
+    width: 105px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
